@@ -2,7 +2,7 @@
 Getting Started
 ---
 
-This is an example a minimalist task management application built with React, featuring task deletion and reordering of tasks via "Move Up" and "Move Down" controls. This project demonstrates foundational skills in React component logic, state handling, and dynamic list rendering.
+A minimalist task management application built with React, featuring task deletion and reordering of tasks via "Move Up" and "Move Down" controls. This project demonstrates foundational skills in React component logic, state handling, and dynamic list rendering.
 
 ## Features
 -  Adds tasks
